@@ -11,8 +11,9 @@
 1. Upload [code](https://github.com/tinkerer9/NeoPixel_Hue_Rotater/blob/main/NeoPixel_Hue_Rotater.ino) to Arduino.
 
 2. Use it!
-  - Click the button to switch [modes](https://forum.arduino.cc/)modes (# displayed on small NeoPixel strip):
+  - Click the button to switch [modes](https://github.com/tinkerer9/NeoPixel_Hue_Rotater/blob/main/README.md#modes) (# displayed on small NeoPixel strip):
   - Rotate potentiometer labeled *Brightness* to change brightnesses of both strips
+  - Rotate potentiometer labeled *LED/Hue* to change brightness of led on modes 1, 3, 4, and 5. Use it to change hue on mode 2.
 
 #### Modes
 
