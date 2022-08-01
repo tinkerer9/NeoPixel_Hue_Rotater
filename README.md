@@ -11,10 +11,14 @@
 1. Upload [code](https://github.com/tinkerer9/NeoPixel_Hue_Rotater/blob/main/NeoPixel_Hue_Rotater.ino) to Arduino.
 
 2. Use it!
-  - Click the button to switch modes (# displayed on small NeoPixel strip):
-    1. White light
-    2. Select hue
-    3. Rainbow (boring)
-    4. Rainbow (cool)
-    5. Show temp/humidity
+  - Click the button to switch [modes](https://forum.arduino.cc/)modes (# displayed on small NeoPixel strip):
   - Rotate potentiometer labeled *Brightness* to change brightnesses of both strips
+
+#### Modes
+
+The NeoPixel_Hue_Rotater has 5 modes:
+  1. White light
+  2. Select hue
+  3. Rainbow (boring)
+  4. Rainbow (cool)
+  5. Show temp/humidity
